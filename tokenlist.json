@@ -1,6 +1,6 @@
 {
   "name": "Token Official List",
-  "logoURI": "https://github.com/amaliaysanti1972-create/UST/blob/main/tether-usdt-logo-png_seeklogo-323175.png",
+  "logoURI": "https://raw.githubusercontent.com/amaliaysanti1972-create/UST/refs/heads/main/tether-usdt-logo-png_seeklogo-323175.png",
   "keywords": ["coin", "community"],
   "timestamp": "2025-10-14T00:00:00+00:00",
   "version": { "major": 1, "minor": 0, "patch": 0 },
@@ -11,7 +11,8 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://github.com/amaliaysanti1972-create/UST/blob/main/tether-usdt-logo-png_seeklogo-323175.png"
+      "logoURI": "https://raw.githubusercontent.com/amaliaysanti1972-create/UST/refs/heads/main/tether-usdt-logo-png_seeklogo-323175.png"
     }
   ]
 }
+
